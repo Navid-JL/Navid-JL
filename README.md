@@ -6,19 +6,19 @@
 
 # 💫 About Me
 
-### 👋 Hi!
+## 👋 Hi!
 
-### 👨‍💻My name is Navid and I'm a web developer.
+## 👨‍💻My name is Navid and I'm a web developer.
 
-### 👯 I’m looking to collaborate on anything that I can learn from.
+## 👯 I’m looking to collaborate on anything that I can learn from.
 
-### 🤝 I’m looking for help with Python, Django, and the MERN stack.
+## 🤝 I’m looking for help with Python, Django, and the MERN stack.
 
-### 🌱 I’m currently learning web development.
+## 🌱 I’m currently learning web development.
 
-### 💬 Ask me about outer space, coding, sci-fi books, video games, and linguistics.
+## 💬 Ask me about outer space, coding, sci-fi books, video games, and linguistics.
 
-### ⚡ One teaspoonful of a neutron star would weigh the same as the entire human population.
+## ⚡ One teaspoonful of a neutron star would weigh the same as the entire human population.
 
 ###
 
