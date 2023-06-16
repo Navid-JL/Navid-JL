@@ -4,8 +4,6 @@
  </p>
  </div>
 
-
-
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=1000&pause=1500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Astrophile;Linguaphile" alt="Typing SVG" /></a>
 </h1>
@@ -40,16 +38,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/49da8badafad34ce66905bf34e720dee5459c26e/public/icons/skills/nextjs.svg" width="36" height="36" alt="PostgreSQL" /></a>
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</p>
-
 <p align="center">
   <a href="https://github.com/Navid-JL/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid-JL&layout=pie&theme=dark#gh-dark-mode-only" alt="Top Languages Used" /></a>
 </div>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Navid-JL&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Navid-JL's GitHub stats"/> </a>
- </p>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Navid-JL&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true" alt="Navid-JL's GitHub stats"/> </a>
 
+ </p>
 
 <h2 align="center">
  Contact
