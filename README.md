@@ -42,7 +42,7 @@
   <a href="https://github.com/Navid-JL/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid-JL&layout=pie&theme=dark#gh-dark-mode-only" alt="Top Languages Used" /></a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Navid-JL&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true" alt="Navid-JL's GitHub stats"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Navid-JL&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Navid-JL's GitHub stats"/> </a>
 
  </p>
 
