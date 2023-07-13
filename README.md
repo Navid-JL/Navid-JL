@@ -58,9 +58,3 @@
 <p align="center">
 <img align="center" src="https://github.com/Navid-JL/Navid-JL/blob/main/4NB4.gif" width="70%" />
 </p>
-
-<h2 align="center">
- Top Repositories
-</h2>
-
-<div width="100%" align="center"><a href="https://github.com/Navid-JL/expression-bodied-props" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Navid-JL&repo=expression-bodied-props&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
