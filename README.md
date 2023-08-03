@@ -10,7 +10,7 @@
 <div>
 <div>
  <p  style='text-align: justify;'>
- <a href="https://app.daily.dev/navid_JL"><img src="https://api.daily.dev/devcards/ccd9f927547e47e8b66ef0cd8caa29c3.png?r=9g9" width="300" alt="Navid Jalili's Dev Card" align="right"/></a>
+ <a href="https://app.daily.dev/navid_JL"><img src="https://api.daily.dev/devcards/ccd9f927547e47e8b66ef0cd8caa29c3.png?r=hhg" width="300" alt="Navid Jalili's Dev Card" align="right"/></a>
  </div>
 
 <h2>
