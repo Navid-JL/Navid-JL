@@ -42,10 +42,10 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36"/> </a>
 <p align="center">
-  <a href="https://github.com/Navid-JL/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid-JL&layout=pie&theme=dark#gh-dark-mode-only" alt="Top Languages Used" /></a>
+  <a href="https://github.com/Navid-JL/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid-JL&layout=pie&theme=dark&hide_border=true" alt="Top Languages Used" /></a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Navid-JL&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="Navid-JL's GitHub stats"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Navid-JL&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Navid-JL's GitHub stats"/> </a>
 
  </p>
 
